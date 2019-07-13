@@ -1,12 +1,11 @@
 # seherSinema
 PHP programlama dili ve mySql sorgu dili olarak seçtiğimiz Sinema Otamasyonu projemizde Kullanıcı Girişi ve Yönetici Girişi olarak iki adet giriş ekranımız bulunmaktadır. Çalışmamızda Bootstrap da kullanılmıştır.<br>
 Veritabanı olarak mySql kullandığımız projemizde 13 adet tablomuz bulunmaktadır. Aşağıda tablolarımızı görüyorsunuz:
-<br><img src=https://github.com/shrgrl/seherSinema/tree/master/img/img1.jpg />
+![](https://github.com/shrgrl/seherSinema/blob/master/img/img1.jpg)
 <br>Projemizin ilk sayfasında giriş ekranı bulunmaktadır. Kullanıcı Girişi veya Yönetici Girişi olarak giriş yapabiliriz. Aşağıda Kullanıcı ve Yönetici Girişi olarak uygulayabileceğimiz adımları aşağıda sıralanmıştır.
 ## Kullanıcı İşlemleri
 Burada kullanıcı kayıtlı ise bilgilerini girerek sisteme giriş yapabilmektedir. Eğer kayıtlı değilse kayıt ol butonu ile kayıt yapabilmektedir.
-<br><img src=https://github.com/shrgrl/seherSinema/tree/master/img/img2.jpg />
-![img2](https://github.com/shrgrl/seherSinema/blob/master/img/img1.jpg)
+![](https://github.com/shrgrl/seherSinema/blob/master/img/img2.jpg)
 
 <br>Kullanıcının yeni kayıt yapması için kullanılan sayfamız bu şekilde görünmektedir. Verilen bilgileri doğru bir şekilde tamamlayıp kayıt ol butonuna basarak kayıt işlemini tamamlar. Daha sonra yukarıda “Kayıt işlemi başarılı” ya da “Kayıt işlemi başarısız” tarzında uyarılar vermektedir. Başarısız kayıt nedenleri eksik bilgiler ya da halıhazırda mevcut bir hesap ile kayıt yapılmak istenmesi olabilir:
 <br><img src=https://github.com/shrgrl/seherSinema/tree/master/img/img3.jpg />
