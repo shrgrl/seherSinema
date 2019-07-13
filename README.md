@@ -6,6 +6,8 @@ Veritabanı olarak mySql kullandığımız projemizde 13 adet tablomuz bulunmakt
 ## Kullanıcı İşlemleri
 Burada kullanıcı kayıtlı ise bilgilerini girerek sisteme giriş yapabilmektedir. Eğer kayıtlı değilse kayıt ol butonu ile kayıt yapabilmektedir.
 <br><img src=https://github.com/shrgrl/seherSinema/tree/master/img/img2.jpg />
+![img2](https://raw.githubusercontent.com/shrgrl/seherSinema/img/img2.jpg)
+
 <br>Kullanıcının yeni kayıt yapması için kullanılan sayfamız bu şekilde görünmektedir. Verilen bilgileri doğru bir şekilde tamamlayıp kayıt ol butonuna basarak kayıt işlemini tamamlar. Daha sonra yukarıda “Kayıt işlemi başarılı” ya da “Kayıt işlemi başarısız” tarzında uyarılar vermektedir. Başarısız kayıt nedenleri eksik bilgiler ya da halıhazırda mevcut bir hesap ile kayıt yapılmak istenmesi olabilir:
 <br><img src=https://github.com/shrgrl/seherSinema/tree/master/img/img3.jpg />
 <br>Kayıtlı kullanıcının tekrar kayıt isteği üzerine verilen uyarı örnekteki gibidir:
