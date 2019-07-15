@@ -11,7 +11,7 @@ Projeyi çalıştırmak için ilk önce bilgisayarımızda yüklü bulunan XAMPP
 
 <br>Ardından web tarayıcımıza <strong>localhost</strong> yazıyoruz ve önceden veritabanına eklemiş olduğumuz projemizi seçiyoruz. Bu seçenek bizi direk projemizin giriş sayfasına yönlendirecektir.<br>
 
-![](https://github.com/shrgrl/seherSinema/tree/master/img/img17.JPG)
+![](https://github.com/shrgrl/seherSinema/blob/master/img/img17.jpg)
 
 <br>Projemizin ilk sayfasında giriş ekranı bulunmaktadır. Kullanıcı Girişi veya Yönetici Girişi olarak giriş yapabiliriz. Aşağıda Kullanıcı ve Yönetici Girişi olarak uygulayabileceğimiz adımları aşağıda sıralanmıştır.
 ## Kullanıcı İşlemleri
