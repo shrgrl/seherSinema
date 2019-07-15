@@ -7,12 +7,9 @@ Veritabanı olarak mySql kullandığımız projemizde 13 adet tablomuz bulunmakt
 ## Projenin Çalıştırılması
 Projeyi çalıştırmak için ilk önce bilgisayarımızda yüklü bulunan XAMPP programını açıp, <i>Apache</i> ve <i>MySQL</i> seçeneklerini <strong>Start</strong> etmemiz gerekiyor.<br>
 ![](https://github.com/shrgrl/PHPHospitalManagementSystem/blob/master/images/img1.JPG)
-<br>Ardından web tarayıcımıza <strong>localhost</strong> yazıyoruz.
-![](https://github.com/shrgrl/PHPHospitalManagementSystem/blob/master/images/img2.JPG)
-<br>Önceden veritabanına eklemiş olduğumuz projemizi seçiyoruz.
-![](https://github.com/shrgrl/PHPHospitalManagementSystem/blob/master/images/img3.JPG)
-<br>Son olarak src seçeneği, tıkladığımızda bizi ana sayfaya yönlendirecektir.
-
+<br>Ardından web tarayıcımıza <strong>localhost</strong> yazıyoruz ve önceden veritabanına eklemiş olduğumuz projemizi seçiyoruz. Bu seçenek bizi direk projemizin giriş sayfasına yönlendirecektir.<br><br>
+![](https://github.com/shrgrl/PHPHospitalManagementSystem/blob/master/images/img17.JPG)
+<br>
 <br>Projemizin ilk sayfasında giriş ekranı bulunmaktadır. Kullanıcı Girişi veya Yönetici Girişi olarak giriş yapabiliriz. Aşağıda Kullanıcı ve Yönetici Girişi olarak uygulayabileceğimiz adımları aşağıda sıralanmıştır.
 ## Kullanıcı İşlemleri
 Burada kullanıcı kayıtlı ise bilgilerini girerek sisteme giriş yapabilmektedir. Eğer kayıtlı değilse kayıt ol butonu ile kayıt yapabilmektedir.
